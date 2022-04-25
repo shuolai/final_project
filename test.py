@@ -52,4 +52,3 @@ print(weather_list)
 
 #course_listing_divs = course_listing_parent.find_all('div', recursive=False)
 
-#print(course_listing_divs)
